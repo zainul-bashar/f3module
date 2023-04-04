@@ -1,0 +1,36 @@
+*{
+    background-color: dimgrey;
+}
+#current-image-container{
+    border: 2px solid grey;
+}
+#search-history{
+    cursor: pointer;
+    
+}
+#search-button{
+    background-color: darkgreen;
+    width: 90px;
+    color: white;
+    border-radius: 6px;
+}
+#search-input{
+    background-color: white;
+}
+#search-h1{
+    color: darkgreen;
+    background-color: white;
+    
+    border-radius: 7px;
+
+}
+#search-form{
+    margin-left: 1%;
+}
+
+#picture-date{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    
+}
